@@ -1,0 +1,40 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "ProBLEM 02",
+      "attention": true,
+      "tech": "Shon Milon",
+      "date": "2022-02-03T07:08:12.772Z"
+    },
+    {
+      "message": "Add new 003",
+      "attention": true,
+      "tech": "Jhon Doye",
+      "date": "2022-01-30T17:17:13.789Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Shon",
+      "lastName": "Milon",
+      "id": 5
+    }
+  ]
+}
